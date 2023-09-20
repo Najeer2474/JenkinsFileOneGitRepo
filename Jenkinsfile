@@ -7,7 +7,7 @@ pipeline {
 	        MAJOR = '1'
 	        MINOR = '0'
 	        //Orchestrator Services
-	        UIPATH_ORCH_URL = "https://cloud.uipath.com/wiprospydtqs/Najeer"
+	        UIPATH_ORCH_URL = "https://cloud.uipath.com/wiprospydtqs/Najeer/orchestrator_/"
 	        UIPATH_ORCH_LOGICAL_NAME = "wiprospydtqs"
 	        UIPATH_ORCH_TENANT_NAME = "Najeer"
 	        UIPATH_ORCH_FOLDER_NAME = "Default"
